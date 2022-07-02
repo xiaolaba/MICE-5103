@@ -1,3 +1,6 @@
+;;;; MICE-5103_7-seg.asm, test MICE-5103 LED display and routine call
+
+
 ;************************************************
 ;* author: xiao_laba@yahoo.com.cn
 ;;;; https://xiaolaba.wordpress.com/2013/01/28/mice-5103-software-sigma-delta-adc-experiment/
