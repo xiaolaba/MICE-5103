@@ -11,7 +11,7 @@ the last activity was done, https://xiaolabadiy.tumblr.com/post/62498911998/mice
 
 
 
-2022-OCT-02, update,  
+### 2022-OCT-02, update,  
 A mechanical engineering student from Silesian University of Technology who has been looking for the hostware for such machine since this July.  
 We have tried to contact the manufacturer & former owner and distributor however no luck, did not got any response. A lecturer & the machine was in Beijing, however he got pass away.  
 
@@ -21,6 +21,6 @@ https://download.csdn.net/download/w110223/3569570
 
 what would be the next to help such a student out ? perhaps flying to the town, try to dig the archive again.
 
-reacap for the hostware and requirement,  
+### recap for the hostware and requirement,  
 1) PC with real COM port, (COM1 - COM4), moden USB- COM adaptor may/not work.  
 2) DOS or XP, or WIN10 with FreeDOS / vDOS installed. may/not work.    
